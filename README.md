@@ -38,7 +38,7 @@ La oferta se organiza en una escala ascendente y acumulable:
 3. **Catálogo Nacional de Ofertas de Formación Profesional**  
     → Recoge todas las ofertas formativas (de Grado A a E).
 
-### 4. Carácter dual obligatorio (Art. 55) — **muy preguntado**
+### 4. Carácter dual obligatorio (Art. 55) —
 
 - Toda la formación de **Grados C y D** (y normalmente E) tiene **carácter dual**.
 - Debe incluir una fase de formación en empresa u organismo equiparado.
@@ -53,7 +53,7 @@ La oferta se organiza en una escala ascendente y acumulable:
 - **Grado medio** → Educación secundaria postobligatoria.
 - **Grado superior** → Educación superior (junto a la universidad).
 
-### 6. Otros puntos que suelen caer
+### 6. Otros puntos importantes
 
 - **Acreditación de competencias** por experiencia laboral u otras vías no formales (se convierte en un procedimiento permanente, no solo por convocatorias).
 - **Orientación profesional** como servicio obligatorio del sistema.
