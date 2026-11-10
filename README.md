@@ -61,6 +61,6 @@ La oferta se organiza en una escala ascendente y acumulable:
 - Duración flexible de los ciclos (grado básico: 2 cursos; medio y superior: 2 o 3).
 - Proyecto intermodular en los ciclos formativos (Art. 41).
 
-### Esquema rápido para memorizar
+### Esquema rápido
 
 **Sistema único** → **5 Grados (A→E)** → **3 Catálogos** → **Dual obligatorio (25 % en empresa)** → **Acreditación permanente** + **Orientación**.
